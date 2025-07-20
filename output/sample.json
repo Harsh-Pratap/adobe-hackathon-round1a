@@ -1,0 +1,100 @@
+{
+  "title": "Training Compute-Optimal Large Language Models",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Training Compute-Optimal Large Language Models",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Related Work",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3. Estimating the optimal parameter/training tokens allocation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "4.  Chinchilla",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "5. Discussion & Conclusion",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "6. Acknowledgements",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Appendix",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "A. Training dataset",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "B. Optimal cosine cycle length",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "C. Consistency of scaling results across datasets",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "D. Details on the scaling analyses",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "E. Curvature of the FLOP-loss frontier",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "F. FLOPs computation",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "G. Other diﬀerences between  Chinchilla  and  Gopher",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "H. Results",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "I. Model Card",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "J. List of trained models",
+      "page": 34
+    }
+  ]
+}
